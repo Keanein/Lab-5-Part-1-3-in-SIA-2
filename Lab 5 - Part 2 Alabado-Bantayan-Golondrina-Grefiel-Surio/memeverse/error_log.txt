@@ -1,0 +1,141 @@
+[22-May-2026 12:48:00 Europe/Berlin] Main Dashboard Stream Query Fault Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.avatar' in 'field list'
+[22-May-2026 12:48:49 Europe/Berlin] Main Dashboard Stream Query Fault Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.avatar' in 'field list'
+[22-May-2026 12:48:50 Europe/Berlin] Main Dashboard Stream Query Fault Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.avatar' in 'field list'
+[22-May-2026 12:56:15 Europe/Berlin] Main Dashboard Stream Query Fault Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.avatar' in 'field list'
+[22-May-2026 13:00:45 Europe/Berlin] Main Dashboard Stream Query Fault Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.avatar' in 'field list'
+[22-May-2026 13:00:47 Europe/Berlin] Main Dashboard Stream Query Fault Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.avatar' in 'field list'
+[22-May-2026 13:01:24 Europe/Berlin] Main Dashboard Stream Query Fault Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.avatar' in 'field list'
+[22-May-2026 13:04:20 Europe/Berlin] Main Dashboard Stream Query Fault Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.avatar' in 'field list'
+[22-May-2026 13:08:10 Europe/Berlin] Database initialization breakdown exception trace: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[22-May-2026 13:10:07 Europe/Berlin] Main Dashboard Stream Query Fault Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.avatar' in 'field list'
+[22-May-2026 13:19:17 Europe/Berlin] Main Dashboard Stream Query Fault Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.nickname' in 'field list'
+[22-May-2026 13:19:24 Europe/Berlin] Main Dashboard Stream Query Fault Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.nickname' in 'field list'
+[22-May-2026 13:19:28 Europe/Berlin] Trending Stream Extraction Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.nickname' in 'field list'
+[22-May-2026 13:19:30 Europe/Berlin] Main Dashboard Stream Query Fault Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.nickname' in 'field list'
+[22-May-2026 13:20:42 Europe/Berlin] API Login Endpoint Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nickname' in 'field list'
+[22-May-2026 13:22:06 Europe/Berlin] Main Dashboard Stream Query Fault Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.nickname' in 'field list'
+[22-May-2026 13:22:07 Europe/Berlin] Main Dashboard Stream Query Fault Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.nickname' in 'field list'
+[22-May-2026 13:22:08 Europe/Berlin] Trending Stream Extraction Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.nickname' in 'field list'
+[22-May-2026 13:22:12 Europe/Berlin] Main Dashboard Stream Query Fault Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.nickname' in 'field list'
+[22-May-2026 13:22:16 Europe/Berlin] Trending Stream Extraction Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.nickname' in 'field list'
+[22-May-2026 13:25:29 Europe/Berlin] Trending Stream Extraction Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.vote_value' in 'field list'
+[22-May-2026 13:25:31 Europe/Berlin] Trending Stream Extraction Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.vote_value' in 'field list'
+[22-May-2026 13:25:31 Europe/Berlin] Trending Stream Extraction Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.vote_value' in 'field list'
+[22-May-2026 13:25:32 Europe/Berlin] Trending Stream Extraction Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.vote_value' in 'field list'
+[22-May-2026 13:25:36 Europe/Berlin] Trending Stream Extraction Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.vote_value' in 'field list'
+[22-May-2026 13:25:37 Europe/Berlin] Main Dashboard Stream Query Fault Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.vote_value' in 'field list'
+[22-May-2026 13:25:39 Europe/Berlin] Trending Stream Extraction Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.vote_value' in 'field list'
+[22-May-2026 13:36:33 Europe/Berlin] API Login Endpoint Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_admin' in 'field list'
+[22-May-2026 13:36:48 Europe/Berlin] API Login Endpoint Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_admin' in 'field list'
+[22-May-2026 13:36:49 Europe/Berlin] API Login Endpoint Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_admin' in 'field list'
+[22-May-2026 14:51:29 Europe/Berlin] API Login Endpoint Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_admin' in 'field list'
+[22-May-2026 15:02:40 Europe/Berlin] API Login Endpoint Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'banned' in 'field list'
+[22-May-2026 15:02:55 Europe/Berlin] API Login Endpoint Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'banned' in 'field list'
+[22-May-2026 15:21:31 Europe/Berlin] Post Database Insertion Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'caption' in 'field list'
+[22-May-2026 15:36:35 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[22-May-2026 15:36:35 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\memeverse\profile.php on line 133
+[22-May-2026 15:37:28 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[22-May-2026 15:37:28 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\memeverse\profile.php on line 133
+[22-May-2026 15:38:11 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[22-May-2026 15:38:11 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\memeverse\profile.php on line 133
+[22-May-2026 15:43:59 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[22-May-2026 15:44:01 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[22-May-2026 15:44:02 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[22-May-2026 15:44:05 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[22-May-2026 15:44:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\memeverse\profile.php on line 133
+[22-May-2026 15:52:15 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[22-May-2026 15:52:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\memeverse\profile.php on line 133
+[22-May-2026 15:52:18 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[25-May-2026 17:51:15 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[25-May-2026 17:51:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\memeverse\profile.php on line 133
+[25-May-2026 17:53:04 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[25-May-2026 17:53:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\memeverse\profile.php on line 133
+[25-May-2026 17:54:12 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[25-May-2026 17:54:12 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\memeverse\profile.php on line 133
+[25-May-2026 18:01:52 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[25-May-2026 18:01:52 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\memeverse\profile.php on line 133
+[26-May-2026 17:16:07 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:16:21 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:16:22 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:18:24 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:18:25 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:19:22 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:19:23 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:19:24 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:19:25 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:25:46 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:25:48 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:25:49 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:25:50 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:25:51 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:25:52 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:25:52 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:32:54 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:32:57 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:33:09 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:33:23 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:33:24 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:33:25 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:33:26 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:33:27 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:33:27 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\memeverse\profile.php on line 133
+[26-May-2026 17:34:01 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:34:03 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:34:03 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:34:04 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:34:08 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:34:08 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\memeverse\profile.php on line 133
+[26-May-2026 17:35:52 Europe/Berlin] Profile Update Processing Anomaly: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:35:52 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:35:52 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\memeverse\profile.php on line 133
+[26-May-2026 17:36:02 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:36:02 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\memeverse\profile.php on line 133
+[26-May-2026 17:36:08 Europe/Berlin] Profile Update Processing Anomaly: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:36:08 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bio' in 'field list'
+[26-May-2026 17:36:08 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\memeverse\profile.php on line 133
+[26-May-2026 17:42:30 Europe/Berlin] Messaging Framework Visual Query Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'memeverse.messages' doesn't exist
+[26-May-2026 17:42:55 Europe/Berlin] Messaging Framework Visual Query Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'memeverse.messages' doesn't exist
+[26-May-2026 17:42:59 Europe/Berlin] Messaging Framework Visual Query Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'memeverse.messages' doesn't exist
+[26-May-2026 17:49:51 Europe/Berlin] Messaging Framework Visual Query Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'memeverse.messages' doesn't exist
+[26-May-2026 17:50:21 Europe/Berlin] API Messaging Relay Framework Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'memeverse.messages' doesn't exist
+[26-May-2026 17:50:27 Europe/Berlin] API Messaging Relay Framework Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'memeverse.messages' doesn't exist
+[26-May-2026 18:04:57 Europe/Berlin] Messaging Framework Visual Query Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'memeverse.messages' doesn't exist
+[26-May-2026 19:37:11 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'profile_pic' in 'field list'
+[26-May-2026 19:37:13 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'profile_pic' in 'field list'
+[26-May-2026 19:37:14 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'profile_pic' in 'field list'
+[26-May-2026 19:58:52 Europe/Berlin] Main Dashboard Query Fault: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.profile_pic' in 'field list'
+[26-May-2026 19:58:58 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'profile_pic' in 'field list'
+[26-May-2026 19:59:01 Europe/Berlin] Main Dashboard Query Fault: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.profile_pic' in 'field list'
+[26-May-2026 19:59:03 Europe/Berlin] Messaging Framework Visual Query Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'profile_pic' in 'field list'
+[26-May-2026 19:59:03 Europe/Berlin] PHP Warning:  Undefined variable $availablePeers in C:\xampp\htdocs\memeverse\messages.php on line 57
+[26-May-2026 19:59:03 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\memeverse\messages.php on line 57
+[26-May-2026 19:59:03 Europe/Berlin] PHP Warning:  Undefined variable $activePeerMetadata in C:\xampp\htdocs\memeverse\messages.php on line 70
+[26-May-2026 19:59:04 Europe/Berlin] getUserById Database Transaction Failure: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'profile_pic' in 'field list'
+[26-May-2026 19:59:07 Europe/Berlin] Main Dashboard Query Fault: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.profile_pic' in 'field list'
+[26-May-2026 20:09:16 Europe/Berlin] Main Dashboard Query Fault: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.profile_pic' in 'field list'
+[26-May-2026 20:16:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function recordVisitorTraffic() in C:\xampp\htdocs\memeverse\index.php:9
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\memeverse\index.php on line 9
+[26-May-2026 20:16:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function recordVisitorTraffic() in C:\xampp\htdocs\memeverse\index.php:9
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\memeverse\index.php on line 9
+[27-May-2026 09:30:37 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\memeverse\includes/../vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\memeverse\includes\email_helper.php on line 7
+[27-May-2026 09:30:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\memeverse\includes/../vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\memeverse\includes\email_helper.php:7
+Stack trace:
+#0 C:\xampp\htdocs\memeverse\api\forgot_password.php(9): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\memeverse\includes\email_helper.php on line 7
+[27-May-2026 09:30:45 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\memeverse\includes/../vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\memeverse\includes\email_helper.php on line 7
+[27-May-2026 09:30:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\memeverse\includes/../vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\memeverse\includes\email_helper.php:7
+Stack trace:
+#0 C:\xampp\htdocs\memeverse\api\forgot_password.php(9): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\memeverse\includes\email_helper.php on line 7
+[27-May-2026 09:41:17 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\memeverse\includes/../vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\memeverse\includes\email_helper.php on line 7
+[27-May-2026 09:41:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\memeverse\includes/../vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\memeverse\includes\email_helper.php:7
+Stack trace:
+#0 C:\xampp\htdocs\memeverse\api\forgot_password.php(9): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\memeverse\includes\email_helper.php on line 7
